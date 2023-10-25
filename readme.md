@@ -12,7 +12,7 @@ The CVC-Clinic database comprises frames extracted from colonoscopy videos. The 
 
 ## Aim
 
-To do polyp recognition and segmentation in colonoscopy images.
+To implement polyp recognition and segmentation for colonoscopy images.
 
 ---
 
