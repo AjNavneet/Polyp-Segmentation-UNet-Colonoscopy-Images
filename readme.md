@@ -50,24 +50,6 @@ To implement polyp recognition and segmentation for colonoscopy images using UNe
 
 ---
 
-## Key Concepts Explored
-
-1. Understand the polyp segmentation problem.
-2. Learn about Intersection over Union (IOU) for evaluation.
-3. Master data augmentation techniques using PyTorch.
-4. Grasp the role of computer vision in the medical field.
-5. Understand and implement Convolutional Neural Network (CNN) models.
-6. Utilize OpenCV for computer vision tasks.
-7. Explore the VGG architecture.
-8. Get insights into UNet architecture.
-9. UNet++ architecture.
-10. Build VGG blocks using PyTorch.
-11. Create a UNet++ network using PyTorch.
-12. Train and make predictions with UNet++ models.
-
----
-
-
 ## Getting Started
 
 1. Create a new env.
